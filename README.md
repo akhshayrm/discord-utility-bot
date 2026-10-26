@@ -5,7 +5,11 @@ Every setting lives in `config.json`, so you can customise it without touching t
 
 ![Welcome message and auto-role](screenshots/01-welcome.png)
 
-▶️ **[Watch the 1-minute demo video](screenshots/demo.mp4)**
+
+
+https://github.com/user-attachments/assets/91f36799-9544-4ec4-bf96-87e4e68fe1fa
+
+
 
 ## Features
 
