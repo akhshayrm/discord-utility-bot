@@ -1,0 +1,17 @@
+# --- Secrets: NEVER commit these ---
+.env
+*.env
+!.env.example
+
+# --- Python virtual environment ---
+.venv/
+venv/
+
+# --- Python cache files ---
+__pycache__/
+*.pyc
+
+# --- Logs / editor files ---
+*.log
+.vscode/
+.idea/

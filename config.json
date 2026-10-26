@@ -1,0 +1,64 @@
+{
+  "guild_id": 1564179952998555688,
+
+  "welcome": {
+    "enabled": true,
+    "channel_id": 1564180027937914990,
+    "auto_role": "Member",
+    "title": "Welcome to {server}!",
+    "message": "Hey {mention}, we're happy to have you here! 🎉\nYou are member **#{member_count}**. Check out the rules and grab some roles."
+  },
+
+  "role_menu": {
+    "title": "Pick your roles",
+    "description": "Click a button to get a role. Click it again to remove it.",
+    "roles": [
+      { "name": "Gamer", "emoji": "🎮", "style": "blurple" },
+      { "name": "Artist", "emoji": "🎨", "style": "green" },
+      { "name": "Announcements", "emoji": "📢", "style": "grey" }
+    ]
+  },
+
+  "faq": {
+    "enabled": true,
+    "cooldown_seconds": 30,
+    "entries": [
+      {
+        "keywords": ["rules", "server rules"],
+        "answer": "📜 **Server rules:** be respectful, no spam, keep chats on-topic, and no NSFW. Full details are pinned in #faq."
+      },
+      {
+        "keywords": ["how to join", "how do i join"],
+        "answer": "👋 To join in, grab your roles in #roles, then say hi in #general!"
+      },
+      {
+        "keywords": ["get a role", "get roles", "how do i get roles", "change my role", "remove my role"],
+        "answer": "🎭 Head to #roles and click a button to add a role. Click it again to remove it."
+      },
+      {
+        "keywords": ["event", "events", "next event"],
+        "answer": "📅 Want to hear about events? Pick the 📢 **Announcements** role in #roles and you'll be pinged when one is posted."
+      },
+      {
+        "keywords": ["report", "contact a mod", "need a mod", "need help"],
+        "answer": "🛡️ Need help or want to report something? Mention a moderator or send a staff member a DM and we'll sort it out."
+      },
+      {
+        "keywords": ["bot commands", "what can the bot do", "bot help"],
+        "answer": "🤖 Type **/** to see everything I can do, like /serverinfo, /userinfo and /poll."
+      },
+      {
+        "keywords": ["invite link", "invite a friend", "invite my friend"],
+        "answer": "🔗 Right-click the server name, choose **Invite People**, and share the link with your friends!"
+      },
+      {
+        "keywords": ["self promo", "self-promo", "advertise", "promote my"],
+        "answer": "🚫 Self-promotion and ads aren't allowed. Please check with a moderator first."
+      }
+    ]
+  },
+
+  "moderation": {
+    "max_clear": 100
+  }
+}
