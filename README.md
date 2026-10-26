@@ -7,7 +7,11 @@ Every setting lives in `config.json`, so you can customise it without touching t
 
 
 
-https://github.com/user-attachments/assets/91f36799-9544-4ec4-bf96-87e4e68fe1fa
+
+
+https://github.com/user-attachments/assets/2c8d85a3-5390-4a1f-97bf-86106e6394be
+
+
 
 
 
